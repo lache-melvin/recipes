@@ -7,7 +7,7 @@
 * [Creamy Carrot Pasta Sauce](https://www.feastingathome.com/orecchiette-with-creamy-carrot-sauce/)
 * Spaghetti Bolognese Tomato Sauce
 * Val's Risonni Salad
-* Drea and Ronnie's Pasta Salad
+* [Drea and Ronnie's Pasta Salad](./recipes/drea-ronnie-pasta-salad.md)
 * Lasagna
 * Gnocchi
 * Risotto
@@ -24,7 +24,7 @@
 
 ## Soups
 * [Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
-* Mum's Tomato Rice Soup
+* [Mum's Tomato Rice Soup](./recipes/tomato-rice-soup.md)
 * Tomato Soup
 * Pumpkin Soup
 
@@ -43,7 +43,7 @@
 * [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/)
 * [Szechuan Tofu and Veg](https://www.feastingathome.com/szechuan-tofu-and-veggies/)
 * [Lo Mein](https://www.feastingathome.com/lo-mein/)
-* Alyssa's Spanish Rice with Veg
+* [Alyssa's Spanish Rice](./recipes/alyssa-spanish-rice.md) with Veg
 * [Pad Thai](https://www.feastingathome.com/15-minute-pad-thai/)
 * Fried Rice
 
@@ -62,6 +62,7 @@
 
 ## Baking
 * [Chocolate Cake](https://www.noracooks.com/vegan-chocolate-cake/)
+* [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
 
 ## Miscellaneous
 * [Oat Milk](https://minimalistbaker.com/make-oat-milk/)
