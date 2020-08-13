@@ -63,6 +63,7 @@
 ## Baking
 * [Chocolate Cake](https://www.noracooks.com/vegan-chocolate-cake/)
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
+* [Emma's Gingerbread](./recipes/emma-gingerbread.md)
 
 ## Miscellaneous
 * [Oat Milk](https://minimalistbaker.com/make-oat-milk/)
