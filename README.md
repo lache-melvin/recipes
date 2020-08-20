@@ -5,7 +5,6 @@
 * [Pasta Alfredo](https://www.feastingathome.com/vegan-alfredo-sauce/)
 * [Avocado Linguine](https://www.feastingathome.com/creamy-avocado-linguine-with-meyer-lemon-and-arugula/)
 * [Capsicum Pasta](https://minimalistbaker.com/vegan-roasted-red-pepper-pasta-gf/) 🎉
-* [Creamy Carrot Pasta Sauce](https://www.feastingathome.com/orecchiette-with-creamy-carrot-sauce/) 🎉
 * [Broccoli Pasta Sauce](https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/)
 * [Roasted Cauliflower Pasta](https://www.feastingathome.com/roasted-cauliflower-pasta/#tasty-recipes-17626)
 * [Spaghetti Bolognese Tomato Sauce](https://www.feastingathome.com/spaghetti-with-fresh-tomato-sauce/)
