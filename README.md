@@ -22,7 +22,7 @@
 * Tikka Masala
 * Korma
 * Saag
-* [Bombay Burritos](https://www.feastingathome.com/indian-frankie-recipe/)
+* [Frankies](https://www.feastingathome.com/indian-frankie-recipe/) 🎉
 
 ## Soups
 * [Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
