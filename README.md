@@ -42,7 +42,7 @@
 * [Tempeh and Greens](https://www.feastingathome.com/blackened-tempeh/)
 * [Mexican Roast Veg](https://www.feastingathome.com/vegan-oaxacan-bowl/)
 * [Stir Fry](https://www.feastingathome.com/broccolini-mushroom-stir-fry/)
-* [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/)
+* [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/) 🎉
 * [Szechuan Tofu and Veg](https://www.feastingathome.com/szechuan-tofu-and-veggies/) 🎉
 * [Lo Mein](https://www.feastingathome.com/lo-mein/)
 * [Chinese Sesame Noodles](https://www.feastingathome.com/sesame-noodles/)
