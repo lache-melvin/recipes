@@ -66,6 +66,7 @@
 ## Baking
 * [Chocolate Cake](https://www.noracooks.com/vegan-chocolate-cake/) 🎉
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
+* [Banana Bread](https://lovingitvegan.com/vegan-banana-bread/#tasty-recipes-4652)
 * [Emma's Gingerbread](./recipes/emma-gingerbread.md) 🐾
 
 ## Miscellaneous
