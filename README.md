@@ -52,6 +52,7 @@
 * [Whole Roasted Cauliflower](https://www.feastingathome.com/whole-roasted-cauliflower-with-black-tahini-and-sumac/)
 * [Quinoa Cakes](https://www.feastingathome.com/quinoa-cakes-with-cherry-tomato-mint-and-chick-pea-relish/)
 * [Lettuce Wraps](https://www.feastingathome.com/healthy-vegan-collard-green-wraps/)
+* [Peanut Sesame and Lime Slaw](./images/peanut-lime-sesame-slaw.jpg)
 * Roast Veges
 * Courgette Fritters
 * Falafel
