@@ -6,7 +6,7 @@
 * [Avocado Linguine](https://www.feastingathome.com/creamy-avocado-linguine-with-meyer-lemon-and-arugula/)
 * [Capsicum Pasta](https://minimalistbaker.com/vegan-roasted-red-pepper-pasta-gf/) 🎉
 * [Broccoli Pasta Sauce](https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/)
-* [Roasted Cauliflower Pasta](https://www.feastingathome.com/roasted-cauliflower-pasta/#tasty-recipes-17626)
+* [Roasted Cauliflower Pasta](https://www.feastingathome.com/roasted-cauliflower-pasta/#tasty-recipes-17626) 🤷‍♀️
 * [Spaghetti Bolognese Tomato Sauce](https://www.feastingathome.com/spaghetti-with-fresh-tomato-sauce/)
 * [Lemon Basil Risonni Salad](https://www.feastingathome.com/lemon-basil-orzo-salad/#tasty-recipes-24003)
 * [Drea and Ronnie's Pasta Salad](./recipes/drea-ronnie-pasta-salad.md) 🐾
