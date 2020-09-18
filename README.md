@@ -72,6 +72,7 @@
 
 ## Miscellaneous
 * [Oat Milk](https://minimalistbaker.com/make-oat-milk/)
+* [Dumpling Dipping Sauce](https://thewoksoflife.com/dumpling-sauce-recipe/)
 * Peanut Sauce
 
 
