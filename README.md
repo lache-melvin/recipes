@@ -37,7 +37,7 @@
 * [Enchilada Casserole](https://www.feastingathome.com/enchilada-casserole/#tasty-recipes-19966)
 * [Tacos](https://www.feastingathome.com/baked-vegetarian-tacos/#tasty-recipes-14871)
 * Nachos
-* Quesadillas
+* [Quesadillas](https://veganhuggs.com/vegan-breakfast-quesadilla/#wprm-recipe-container-7688) (these are with capsicum and tofu)
 * Burritos
 * Enchiladas
 
@@ -46,7 +46,7 @@
 * [Ayurvedic Detox Bowl](https://www.feastingathome.com/ayurvedic-detox-bowl-khichari/)
 * [Tempeh and Greens](https://www.feastingathome.com/blackened-tempeh/)
 * [Mexican Roast Veg](https://www.feastingathome.com/vegan-oaxacan-bowl/)
-* [Broccoli Mushroom Stir Fry](https://www.feastingathome.com/broccolini-mushroom-stir-fry/)
+* [Broccoli Mushroom Stir Fry](https://www.feastingathome.com/broccolini-mushroom-stir-fry/) 🎉
 * [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/) 🎉
 * [Szechuan Tofu and Veg](https://www.feastingathome.com/szechuan-tofu-and-veggies/) 🎉
 * [Lo Mein](https://www.feastingathome.com/lo-mein/) 🎉
@@ -61,7 +61,7 @@
 * [Quinoa Cakes](https://www.feastingathome.com/quinoa-cakes-with-cherry-tomato-mint-and-chick-pea-relish/) 🎉
 * [Lettuce Wraps](https://www.feastingathome.com/healthy-vegan-collard-green-wraps/)
 * [Peanut Sesame and Lime Slaw](./images/peanut-lime-sesame-slaw.jpg) 🎉
-* [Ratatouille](https://cookieandkate.com/best-ratatouille-recipe/#tasty-recipes-34476) (serve with polenta, pasta etc.)
+* [Ratatouille](https://cookieandkate.com/best-ratatouille-recipe/#tasty-recipes-34476) (serve with polenta, pasta etc.) 🎉
 * Roast Veges
 * Courgette Fritters
 * Falafel
@@ -73,12 +73,28 @@
 ## Baking
 * [Chocolate Cake](https://www.noracooks.com/vegan-chocolate-cake/) 🎉
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
+* [Banana Cake](https://www.food.com/recipe/vegan-banana-cake-420289#activity-feed) (add cinnamon, & slightly less baking soda) 🎉
 * [Banana Bread](https://lovingitvegan.com/vegan-banana-bread/#tasty-recipes-4652)
 * [Emma's Gingerbread](./recipes/emma-gingerbread.md) 🐾
+
+## Breakfasts
+* [Smoothies](./recipes/smoothies.md)
+* [Blackcurrent Chia Overnight Oats](https://quitegoodfood.co.nz/blackcurrant-chia-seed-overnight-oats/)
+* [Carrot Cake Overnight Oats](https://quitegoodfood.co.nz/carrot-cake-overnight-oats/)
+* [DIY Chocolate Chai Granola](https://www.veggieinspired.com/chocolate-chai-spice-granola/)
+* [DIY Coffee Granola](https://www.veggieinspired.com/coffee-granola/)
+* [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164)
+* [Breakfast Tacos w Potatoes and Tofu Scramble](https://www.whereyougetyourprotein.com/vegan-breakfast-tacos/#mv-creation-122-jtr)
+* Coconut Milk Oats
+* Avocado Toast (w sundried tomatoes)
+
+## Snack Ideas
+* [Pumpkin Seed Bars](https://hungryhobby.net/pumpkin-seed-bars/)
+* [Chia Pudding](https://www.yummymummykitchen.com/2018/04/berry-chia-pudding.html)
+* Frozen Grapes
+* Frozen Half-Chocolate-Coated Banana Slices
 
 ## Miscellaneous
 * [Oat Milk](https://minimalistbaker.com/make-oat-milk/)
 * [Dumpling Dipping Sauce](https://thewoksoflife.com/dumpling-sauce-recipe/)
 * Peanut Sauce
-
-
