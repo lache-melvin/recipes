@@ -53,12 +53,12 @@
 
 ## Pastas/Italian
 * [Mac and Cheese](https://www.feastingathome.com/healthy-mac-and-cheese/)
+* [Spaghetti Bolognese](https://quitegoodfood.co.nz/mushroom-and-lentil-vegan-spaghetti-bolognese/)
+* [Spaghetti Bolognese Tomato Sauce](https://www.feastingathome.com/spaghetti-with-fresh-tomato-sauce/)
 * [Pasta Alfredo](https://www.feastingathome.com/vegan-alfredo-sauce/)
 * [Avocado Linguine](https://www.feastingathome.com/creamy-avocado-linguine-with-meyer-lemon-and-arugula/)
 * [Capsicum Pasta](https://minimalistbaker.com/vegan-roasted-red-pepper-pasta-gf/) 🎉
 * [Broccoli Pasta Sauce](https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/)
-* [Roasted Cauliflower Pasta](https://www.feastingathome.com/roasted-cauliflower-pasta/#tasty-recipes-17627) 🤷‍♀️
-* [Spaghetti Bolognese Tomato Sauce](https://www.feastingathome.com/spaghetti-with-fresh-tomato-sauce/)
 * [Spinach Mushroom and Tofu Ricotta Pasta Bake](https://www.feastingathome.com/no-boil-mushroom-baked-ziti/#tasty-recipes-17162)
 * [Lemon Basil Risonni Salad](https://www.feastingathome.com/lemon-basil-orzo-salad/#tasty-recipes-24004)
 * [Drea and Ronnie's Pasta Salad](./recipes/drea-ronnie-pasta-salad.md) 🐾
