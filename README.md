@@ -17,10 +17,14 @@
 
 ## Veggie Creations
 * [Whole Roasted Cauliflower](https://www.feastingathome.com/whole-roasted-cauliflower-with-black-tahini-and-sumac/)
+* [Kung Pao Cauliflower](https://circusgardener.com/2015/08/15/kung-pao-cauliflower/)
+* [Crispu Kumara Cakes](https://quitegoodfood.co.nz/crispy-kumara-cakes/)
 * [Quinoa Cakes](https://www.feastingathome.com/quinoa-cakes-with-cherry-tomato-mint-and-chick-pea-relish/) 🎉
 * [Lettuce Wraps](https://www.feastingathome.com/healthy-vegan-collard-green-wraps/)
 * [Peanut Sesame and Lime Slaw](./images/peanut-lime-sesame-slaw.jpg) 🎉
 * [Ratatouille](https://cookieandkate.com/best-ratatouille-recipe/#tasty-recipes-34476) (serve with polenta, pasta etc.) 🎉
+* [Baked Eggplant w Tomato and Lentils](https://quitegoodfood.co.nz/baked-eggplant-lentils-tomatoes-herby-topping/)
+* [Cajun Chilli Fries w Avocado Coriander Sauce](https://quitegoodfood.co.nz/cajun-chili-fries/)
 * Roast Veges
 * Courgette Fritters
 * Falafel
@@ -58,6 +62,7 @@
 * [Pasta Alfredo](https://www.feastingathome.com/vegan-alfredo-sauce/)
 * [Avocado Linguine](https://www.feastingathome.com/creamy-avocado-linguine-with-meyer-lemon-and-arugula/)
 * [Capsicum Pasta](https://minimalistbaker.com/vegan-roasted-red-pepper-pasta-gf/) 🎉
+* [Creamy Cauliflower Sauce](https://quitegoodfood.co.nz/creamy-cauliflower-sauce/)
 * [Broccoli Pasta Sauce](https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/)
 * [Spinach Mushroom and Tofu Ricotta Pasta Bake](https://www.feastingathome.com/no-boil-mushroom-baked-ziti/#tasty-recipes-17162)
 * [Lemon Basil Risonni Salad](https://www.feastingathome.com/lemon-basil-orzo-salad/#tasty-recipes-24004)
@@ -72,8 +77,9 @@
 
 ## Baking
 * [Chocolate Cake](https://www.noracooks.com/vegan-chocolate-cake/) 🎉
-* [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
 * [Banana Cake](https://www.food.com/recipe/vegan-banana-cake-420289#activity-feed) (add cinnamon, & slightly less baking soda) 🎉
+* [Coffee Salted Caramel Popcorn Cheesecake](https://quitegoodfood.co.nz/vegan-coffee-cheesecake-salted-caramel-popcorn/)
+* [Liza's Caca Cookies](./recipes/liza-caca-cookies.md)
 * [Banana Bread](https://lovingitvegan.com/vegan-banana-bread/#tasty-recipes-4652)
 * [Emma's Gingerbread](./recipes/emma-gingerbread.md) 🐾
 
