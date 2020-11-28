@@ -41,7 +41,7 @@
 ## Soups
 * [Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
 * [Mum's Tomato Rice Soup](./recipes/tomato-rice-soup.md) 🎉
-* [Pho/Wonton Soup](https://www.feastingathome.com/lightning-speed-photon-soup/#tasty-recipes-18851)
+* [Pho/Wonton Soup](https://www.feastingathome.com/lightning-speed-photon-soup/#tasty-recipes-18851) 🎉
 * [Thai Coconut Noodle Soup](https://www.feastingathome.com/thai-coconut-noodle-soup-khao-soi/#tasty-recipes-19077)
 * [Mexican Chickpea Noodle Soup](https://www.feastingathome.com/mexican-chicken-noodle-soup/#tasty-recipes-16472)
 * Tomato Soup
@@ -64,7 +64,7 @@
 * [Capsicum Pasta](https://minimalistbaker.com/vegan-roasted-red-pepper-pasta-gf/) 🎉
 * [Creamy Cauliflower Sauce](https://quitegoodfood.co.nz/creamy-cauliflower-sauce/)
 * [Broccoli Pasta Sauce](https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/)
-* [Spinach Mushroom and Tofu Ricotta Pasta Bake](https://www.feastingathome.com/no-boil-mushroom-baked-ziti/#tasty-recipes-17162)
+* [Spinach Mushroom and Tofu Ricotta Pasta Bake](https://www.feastingathome.com/no-boil-mushroom-baked-ziti/#tasty-recipes-17162) 🎉
 * [Lemon Basil Risonni Salad](https://www.feastingathome.com/lemon-basil-orzo-salad/#tasty-recipes-24004)
 * [Drea and Ronnie's Pasta Salad](./recipes/drea-ronnie-pasta-salad.md) 🐾
 * Lasagna
