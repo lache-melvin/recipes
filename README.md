@@ -8,6 +8,7 @@
 * [Broccoli Mushroom Stir Fry](https://www.feastingathome.com/broccolini-mushroom-stir-fry/) 🎉
 * [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/) 🎉
 * [Szechuan Tofu and Veg](https://www.feastingathome.com/szechuan-tofu-and-veggies/) 🎉
+* [Korean Spicy Tofu](https://simpleveganblog.com/korean-style-spicy-tofu/) (Courtesy of Felicity lol)
 * [Lo Mein](https://www.feastingathome.com/lo-mein/) 🎉
 * [Chinese Sesame Noodles](https://www.feastingathome.com/sesame-noodles/)
 * [Alyssa's Spanish Rice](./recipes/alyssa-spanish-rice.md) with Veg 🎉
