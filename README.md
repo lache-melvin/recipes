@@ -43,7 +43,7 @@
 * [Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
 * [Mum's Tomato Rice Soup](./recipes/tomato-rice-soup.md) 🎉
 * [Pho/Wonton Soup](https://www.feastingathome.com/lightning-speed-photon-soup/#tasty-recipes-18851) 🎉
-* [Thai Coconut Noodle Soup](https://www.feastingathome.com/thai-coconut-noodle-soup-khao-soi/#tasty-recipes-19077)
+* [Thai Coconut Noodle Soup](https://www.feastingathome.com/thai-coconut-noodle-soup-khao-soi/#tasty-recipes-19077) 🎉
 * [Mexican Chickpea Noodle Soup](https://www.feastingathome.com/mexican-chicken-noodle-soup/#tasty-recipes-16472)
 * Tomato Soup
 * Pumpkin Soup
