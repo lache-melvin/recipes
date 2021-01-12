@@ -20,7 +20,7 @@
 * [Whole Roasted Cauliflower](https://www.feastingathome.com/whole-roasted-cauliflower-with-black-tahini-and-sumac/)
 * [Roasted Spiced Cauliflower w Caramelised Garlic Yoghurt](./images/roast-spiced-cauliflower.JPG)
 * [Kung Pao Cauliflower](https://circusgardener.com/2015/08/15/kung-pao-cauliflower/)
-* [Crispy Kumara Cakes](https://quitegoodfood.co.nz/crispy-kumara-cakes/)
+* [Crispy Kumara Cakes](https://quitegoodfood.co.nz/crispy-kumara-cakes/) 🎉
 * [Quinoa Cakes](https://www.feastingathome.com/quinoa-cakes-with-cherry-tomato-mint-and-chick-pea-relish/) 🎉
 * [Lettuce Wraps](https://www.feastingathome.com/healthy-vegan-collard-green-wraps/)
 * [Peanut Sesame and Lime Slaw](./images/peanut-lime-sesame-slaw.jpg) 🎉
