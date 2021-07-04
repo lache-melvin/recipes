@@ -69,9 +69,11 @@
 
 ## Breakfasts
 * [Smoothies](./recipes/smoothies.md) 🎉
+* [Quinoa Breakfast Bowl](https://veganhuggs.com/chunky-monkey-breakfast-quinoa-bowl/#recipe)
+* [Breakfast Cookies](https://www.allergyfreealaska.com/gluten-free-breakfast-cookies/)
 * [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164) 🎉
 * [Breakfast Tacos w Potatoes and Tofu Scramble](https://www.whereyougetyourprotein.com/vegan-breakfast-tacos/#mv-creation-122-jtr)
-* Coconut Milk Oats
+* [Quiche cups](https://www.vegannie.com/appetizers-sides/vegan-quiche-cups/)
 * Avocado Toast (w sundried tomatoes)
 
 ## Snack Ideas
