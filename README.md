@@ -68,7 +68,6 @@
 
 
 ## Breakfasts
-* [Smoothies](./recipes/smoothies.md) 🎉
 * [Quinoa Breakfast Bowl](https://veganhuggs.com/chunky-monkey-breakfast-quinoa-bowl/#recipe)
 * [Breakfast Cookies](https://www.allergyfreealaska.com/gluten-free-breakfast-cookies/)
 * [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164) 🎉
