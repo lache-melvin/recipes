@@ -62,7 +62,7 @@
 * ['Cheesey' Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
 
 ## Baking
-* [Coffee Salted Caramel Popcorn Cheesecake](https://quitegoodfood.co.nz/vegan-coffee-cheesecake-salted-caramel-popcorn/)
+* [Coffee Chocolate Salted Caramel Popcorn Slice](https://quitegoodfood.co.nz/vegan-coffee-cheesecake-salted-caramel-popcorn/) 🎉
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md) 🎉
 * [Brownie](https://www.bakerita.com/vegan-gluten-free-brownies/#tasty-recipes-27233-jump-target)
 
