@@ -72,7 +72,7 @@
 * [Breakfast Cookies](https://www.allergyfreealaska.com/gluten-free-breakfast-cookies/)
 * [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164) 🎉
 * [Breakfast Tacos w Potatoes and Tofu Scramble](https://www.whereyougetyourprotein.com/vegan-breakfast-tacos/#mv-creation-122-jtr)
-* [Quiche cups](https://www.vegannie.com/appetizers-sides/vegan-quiche-cups/)
+* Tofu Quiche Cups](https://www.vegannie.com/appetizers-sides/vegan-quiche-cups/) - Add lots of herbs and spice! 🎉
 * Avocado Toast (w sundried tomatoes yeiyahh)
 
 ## Snack Ideas
