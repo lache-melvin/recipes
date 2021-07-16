@@ -51,7 +51,7 @@
 * [Cauliflower Couscous](https://www.feastingathome.com/moroccan-cauliflower-rice/#tasty-recipes-44191-jump-target)
 * [Eggplant Chickpea Cuisine](https://www.feastingathome.com/eggplant-chickpea-tagine/#tasty-recipes-41756-jump-target)
 
-# Ethiopian
+## Ethiopian
 * [Berbere Potatoes](https://www.feastingathome.com/berbere-potatoes/#tasty-recipes-42966-jump-target)
 * [Coconut Millet and Berbere Squash](https://www.feastingathome.com/coconut-millet-bowl-with-berbere-spiced-squash/#tasty-recipes-42127-jump-target)
 
