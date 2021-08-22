@@ -8,9 +8,11 @@
 * [Frankies](https://www.feastingathome.com/indian-frankie-recipe/#tasty-recipes-20365-jump-target) 🎉
 * [Indian Fried Rice](https://www.feastingathome.com/indian-fried-rice/#tasty-recipes-34249)
 * [Ayurvedic Bowl](https://www.feastingathome.com/ayurvedic-detox-bowl-khichari/#tasty-recipes-18949-jump-target)
+* [Red Lentil Stew](./images/lentil-stew.jpg)
 * [Mulligatawny (Curried Soup)](https://www.feastingathome.com/instant-pot-mulligatawny/#tasty-recipes-42653-jump-target)
 * [Roasted Spiced Cauliflower w Caramelised Garlic Yoghurt](./images/roast-spiced-cauliflower.JPG)
 * [Tandoori Cauliflower and Spinach Pilaf](https://www.hellofresh.co.nz/recipes/tandoori-cauliflower-spinach-rice-pilaf-5e72e81a87eb2f1ddf497ab0)
+* [Almond Pilaf](./images/almond-pilaf.jpg)
 * [Curry Chickpea Salad](https://www.feastingathome.com/curry-chickpea-salad/#tasty-recipes-34428-jump-target)
 * I also want to find a good Tikka Masala, Korma and Saag recipe...
 
@@ -31,18 +33,22 @@
 * [Kung Pao Cauliflower](https://circusgardener.com/2015/08/15/kung-pao-cauliflower/)
 * [Broccoli Mushroom Stir Fry](https://www.feastingathome.com/broccolini-mushroom-stir-fry/#tasty-recipes-20214-jump-target) 🎉
 * [Garlic Chilli Tofu + Sesame Broccoli](https://www.feastingathome.com/chili-garlic-tofu-with-sesame-brocolini/#tasty-recipes-19974-jump-target) 🎉
+* [Sweet and Sour Kumara with Shitake Mushrooms](./images/sweet-sour-kumara-shitake.jpg)
 
 ## Japanese
 * [Vege Fried Rice](https://www.feastingathome.com/vegetable-fried-rice/#tasty-recipes-43167-jump-target)
 * [Miso Mushroom Bowl](https://www.feastingathome.com/mushroom-rice-bowl-recipe/#tasty-recipes-41599-jump-target)
+* [Tofu and Mushroom Rissoles](./images/tofu-mushroom-rissoles.jpg)
 
 ## Indonesian
 * [Tempeh Gado Gado](http://tonzu.co.nz/wp-content/uploads/2019/09/Tempeh-GadoGado.pdf)
+* [Tempeh Kumara Curry](./images/tempeh-kumara-curry.jpg)
 
 ## Mexican
 * [Chickpea Noodle Soup](https://www.feastingathome.com/mexican-chicken-noodle-soup/#tasty-recipes-16472)
 * [Black Bean Soup](https://www.hellofresh.co.nz/recipes/mexican-black-bean-soup-60d2de80dd7c97692f274253?q=plant+based)
 * [Roast Vege Bowl](https://www.feastingathome.com/vegan-oaxacan-bowl/#tasty-recipes-19341-jump-target) 🎉
+* [Chilli Beans](./images/chilli-beans.jpg)
 * [Black Bean Quinoa Salad](https://www.feastingathome.com/black-bean-quinoa-salad/#tasty-recipes-45415-jump-target)
 * [Walnut Almond Chilli Tacos w Guac](./images/tacos.JPG)
 * [Nachos](./images/nachos.jpeg) 🎉
@@ -61,6 +67,9 @@
 * [Berbere Potatoes](https://www.feastingathome.com/berbere-potatoes/#tasty-recipes-42966-jump-target)
 * [Coconut Millet and Berbere Squash](https://www.feastingathome.com/coconut-millet-bowl-with-berbere-spiced-squash/#tasty-recipes-42127-jump-target)
 * [Berbere Lentil Roast Vege Soup](https://www.hellofresh.co.nz/recipes/berbere-spiced-lentil-roast-veggie-soup-60f8b2e373ae8755b109d319?q=plant+based)
+
+## Lebanese
+* [Baba Ghannouj](./images/baba-ghannouj.jpg)
 
 ## Mediterranean
 * [Quinoa Cakes](https://www.feastingathome.com/quinoa-cakes-with-cherry-tomato-mint-and-chick-pea-relish/#tasty-recipes-21721-jump-target) 🎉
@@ -82,22 +91,39 @@
 * [Lemon Asparagus Risotto](https://www.feastingathome.com/lemony-asparagus-risotto/#tasty-recipes-43547-jump-target)
 * [Pumpkin Basil Pesto Risotto](https://www.hellofresh.co.nz/recipes/pumpkin-basil-pesto-risotto-60dd27548634520dfb500e3c?q=plant+based)
 * [Frittata](https://www.feastingathome.com/vegan-frittata/#tasty-recipes-43415-jump-target)
+* [Anna and Roger's Frittata](./images/farinata-frittata.jpg)
 
 
 ## Honestly I don't know quite the cuisine
 * [Crispy Kumara Cakes](https://quitegoodfood.co.nz/crispy-kumara-cakes/) 🎉
 * [Lettuce Wraps](https://www.feastingathome.com/healthy-vegan-collard-green-wraps/#tasty-recipes-27004-jump-target)
 * ['Cheesey' Broccoli Soup](https://www.feastingathome.com/vegan-broccoli-soup/)
+* [Spinach Soup](./images/spinach-soup.jpg)
+* [Tomato Coconut Soup](./images/tomato-coconut-soup.jpg)
 * [Spinach and Mushroom Wild Rice Soup](https://www.feastingathome.com/instant-pot-wild-rice-soup/#tasty-recipes-40672-jump-target)
+* [Adzuki Pumpkin Casserole](./images/adzuki-pumpkin-casserole.jpg)
+* [Asparagus Mushroom Salad](./images/asparagus-mushroom-salad.jpg)
+* [Broccoli Cauliflower Salad](./images/broc-cauli-salad.jpg)
+* [Pressed Salad](./images/pressed-salad.jpg)
 
 ## Baking
 * [Coffee Chocolate Salted Caramel Popcorn Slice](https://quitegoodfood.co.nz/vegan-coffee-cheesecake-salted-caramel-popcorn/) 🎉
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md) 🎉
 * [Brownie](https://www.bakerita.com/vegan-gluten-free-brownies/#tasty-recipes-27233-jump-target)
 * [Banana Muffins](https://www.rhiansrecipes.com/banana-muffins/#recipe)
+* [Black Rice Pudding](./images/black-rice-pudding.jpg)
+* [Chocolate Mint Squares](./images/choc-mint-squares.jpg)
+* [Coconut Cookies](./images/coconut-cookies.jpg)
+* [Mango Cardamom Lassi](./images/mango-cardamom-lassi.jpg)
+* [Pear Cardamom Tart](./images/pear-cardamom-tart.jpg)
+* [Avocado Chocolate Mousse](./images/avo-choc-mousse.jpg) 🎉
 
 ## Breakfasts
 * [Quinoa Breakfast Bowl](https://veganhuggs.com/chunky-monkey-breakfast-quinoa-bowl/#recipe)
+* [Quinoa Muesli](./images/quinoa-muesli.jpg)
+* [Rice Pomegranate Muesli](./images/rice-pomegranate-muesli.jpg)
+* [Superfood Smoothie](./images/superfood-smoothie.jpg)
+* [Raspberry Avocado Smoothie](./images/raspberry-avocado-smoothie.jpg)
 * [Breakfast Cookies](https://www.allergyfreealaska.com/gluten-free-breakfast-cookies/)
 * [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164) 🎉
 * [Breakfast Tacos w Potatoes and Tofu Scramble](https://www.whereyougetyourprotein.com/vegan-breakfast-tacos/#mv-creation-122-jtr)
@@ -114,3 +140,11 @@
 * [Dumpling Dipping Sauce](https://thewoksoflife.com/dumpling-sauce-recipe/) 🎉
 * [Pico de Gallo](https://www.feastingathome.com/pico-de-gallo/#tasty-recipes-44832-jump-target)
 * [Cheesey Sprinkle](https://www.feastingathome.com/vegan-cheesy-sprinkle/#tasty-recipes-42792-jump-target)
+* [Tamari Seeds](./images/tamari-seeds.jpg)
+* [Cashew Cheese](./images/cashew-cheese.jpg)
+* [Coconut Spinach Dip](./images/coconut-spinach-dip.jpg)
+* [Curried Carrot Dip](./images/curried-carrot-dip.jpg)
+* [Pumpkin Hummus](./images/pumpkin-hummus.jpg)
+* [Mango Avocado Salsa](./images/mango-avo-salsa.jpg)
+* [Various Dressings](./images/dressings.jpg)
+* [Cauliflower Mash](./images/cauli-mash.jpg)
