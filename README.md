@@ -1,5 +1,7 @@
 # (Mostly) Vegan and Gluten Free Recipes! 🎉
 
+> FYI, 🎉 means I've tried and enjoyed it. If I didn't like it, it's gone.
+
 ## Indian
 * [Cauliflower Masala](https://www.feastingathome.com/quick-cauliflower-masala/) 🎉
 * [Cauliflower Dal](https://www.feastingathome.com/cauliflower-dal/#tasty-recipes-41337-jump-target)
@@ -133,7 +135,7 @@
 ## Snack Ideas
 * [Pumpkin Seed Bars](https://hungryhobby.net/pumpkin-seed-bars/)
 * [Chia Pudding](https://www.yummymummykitchen.com/2018/04/berry-chia-pudding.html)
-* [Caramel Popcorn](https://www.pickuplimes.com/recipe/vegan-caramel-popcorn-195)
+* [Caramel Popcorn](https://www.pickuplimes.com/recipe/vegan-caramel-popcorn-195) 🎉
 * Frozen Grapes 🎉
 * Frozen Half-Chocolate-Coated Banana Slices 🎉
 
