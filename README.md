@@ -133,6 +133,7 @@
 ## Snack Ideas
 * [Pumpkin Seed Bars](https://hungryhobby.net/pumpkin-seed-bars/)
 * [Chia Pudding](https://www.yummymummykitchen.com/2018/04/berry-chia-pudding.html)
+* [Caramel Popcorn](https://www.pickuplimes.com/recipe/vegan-caramel-popcorn-195)
 * Frozen Grapes 🎉
 * Frozen Half-Chocolate-Coated Banana Slices 🎉
 
@@ -148,3 +149,5 @@
 * [Mango Avocado Salsa](./images/mango-avo-salsa.jpg)
 * [Various Dressings](./images/dressings.jpg)
 * [Cauliflower Mash](./images/cauli-mash.jpg)
+* [Soy Yoghurt](https://veganlovlie.com/homemade-soy-yogurt/)
+* [Vegetable Broth](https://minimalistbaker.com/easy-1-pot-vegetable-broth/#wprm-recipe-container-34552)
