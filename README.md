@@ -43,8 +43,8 @@
 * [Tofu and Mushroom Rissoles](./images/tofu-mushroom-rissoles.jpg)
 
 ## Indonesian
-* [Tempeh Gado Gado](http://tonzu.co.nz/wp-content/uploads/2019/09/Tempeh-GadoGado.pdf)
-* [Tempeh Kumara Curry](./images/tempeh-kumara-curry.jpg)
+* [Tempeh Gado Gado](http://tonzu.co.nz/wp-content/uploads/2019/09/Tempeh-GadoGado.pdf) 🎉
+* [Tempeh Kumara Curry](./images/tempeh-kumara-curry.jpg) 🎉
 
 ## Mexican
 * [Chickpea Noodle Soup](https://www.feastingathome.com/mexican-chicken-noodle-soup/#tasty-recipes-16472)
@@ -57,7 +57,7 @@
 * [Alyssa's Spanish Rice](./recipes/alyssa-spanish-rice.md) with Veg 🎉
 
 ## Cajun
-* [Tempeh and Greens](https://www.feastingathome.com/blackened-tempeh/)
+* [Tempeh and Greens](https://www.feastingathome.com/blackened-tempeh/) 🎉
 * [Cajun Chilli Fries w Avocado Coriander Sauce](https://quitegoodfood.co.nz/cajun-chili-fries/)
 
 ## Moroccan
@@ -112,7 +112,7 @@
 * [Coffee Chocolate Salted Caramel Popcorn Slice](https://quitegoodfood.co.nz/vegan-coffee-cheesecake-salted-caramel-popcorn/) 🎉
 * [Liza's Caca Cookies](./recipes/liza-caca-cookies.md) 🎉
 * [Brownie](https://www.bakerita.com/vegan-gluten-free-brownies/#tasty-recipes-27233-jump-target)
-* [Banana Muffins](https://www.rhiansrecipes.com/banana-muffins/#recipe)
+* [Banana Muffins](https://www.rhiansrecipes.com/banana-muffins/#recipe) 🎉
 * [Black Rice Pudding](./images/black-rice-pudding.jpg)
 * [Chocolate Mint Squares](./images/choc-mint-squares.jpg)
 * [Coconut Cookies](./images/coconut-cookies.jpg)
@@ -130,7 +130,6 @@
 * [Tofu Scramble](https://cadryskitchen.com/vegan-tofu-scramble/#wprm-recipe-container-29164) 🎉
 * [Breakfast Tacos w Potatoes and Tofu Scramble](https://www.whereyougetyourprotein.com/vegan-breakfast-tacos/#mv-creation-122-jtr)
 * [Tofu Quiche Cups](https://www.vegannie.com/appetizers-sides/vegan-quiche-cups/) - Add lots of herbs and spice! 🎉
-* Avocado Toast (w sundried tomatoes yeiyahh)
 
 ## Snack Ideas
 * [Pumpkin Seed Bars](https://hungryhobby.net/pumpkin-seed-bars/)
@@ -151,5 +150,5 @@
 * [Mango Avocado Salsa](./images/mango-avo-salsa.jpg)
 * [Various Dressings](./images/dressings.jpg)
 * [Cauliflower Mash](./images/cauli-mash.jpg)
-* [Soy Yoghurt](https://veganlovlie.com/homemade-soy-yogurt/)
-* [Vegetable Broth](https://minimalistbaker.com/easy-1-pot-vegetable-broth/#wprm-recipe-container-34552)
+* [Soy Yoghurt](https://veganlovlie.com/homemade-soy-yogurt/) 🎉
+* [Vegetable Broth](https://minimalistbaker.com/easy-1-pot-vegetable-broth/#wprm-recipe-container-34552) 🎉
